@@ -1,0 +1,32 @@
+body {
+	background-image: url('../image/bg_index.jpg') ;
+	background-repeat:no-repeat;
+}
+
+form {
+	text-align:center;
+	font-size:5mm;
+	background-color:whitesmoke;
+	width:7cm;
+	height:7.3cm;
+	margin:auto;
+	margin-top:0;
+	padding:10px;
+	padding-top:2cm;
+}
+
+#firstname {
+	width:5cm;
+	height:10mm;
+	border-radius:10px;
+}
+
+#sub {
+	width:4cm;
+	height:15mm;
+	border-radius: 40px;
+	background-color:lightblue;
+	font-family: monospace;
+	font-size:4mm;
+	font-weight:bold;
+}

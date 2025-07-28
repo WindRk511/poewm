@@ -1,0 +1,9 @@
+p {
+  background-color: grey;
+  border: 10px bold;
+  border-color: black;
+  border-radius: 10px;
+  padding: 10px;
+  font-size:1cm;
+}
+

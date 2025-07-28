@@ -1,0 +1,20 @@
+body {
+	background-image: url('../image/bg_index.jpg') ;
+	background-repeat:no-repeat;
+}
+
+.button {
+	width : 46%;
+	height : 50%;
+}
+button {
+	width:3cm;
+	height:3cm;
+	background-size:10px;
+	border-radius:50%;
+}
+ h1 {
+	 padding:49.5%;
+	 padding-bottom:1px;
+	 padding-left:47%;
+ }
