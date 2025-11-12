@@ -1,6 +1,7 @@
 p {
   background-color: #F2E20C;
-  border: 30px bold black;
+  border: bold 30px;
+  border-color: black;
   border-radius: 10px;
   padding: 10px;
   font-size:1cm;
